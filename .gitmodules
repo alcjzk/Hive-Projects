@@ -4,3 +4,6 @@
 [submodule "FdF"]
 	path = FdF
 	url = https://github.com/alcjzk/FdF
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/alcjzk/push_swap
