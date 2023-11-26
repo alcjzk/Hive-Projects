@@ -14,3 +14,15 @@ Collation repository for the school projects I've done during my time at Hive He
 
 ### Push_swap
 > Sort two stacks with limited instructions.
+
+### Philosophers
+> Multithreading / shared memory excercise in C
+
+### Minishell
+> A simple Bash-like shell in C
+
+### Cub3D
+> Raycasting with C & MLX42
+
+### CPP_Module_XX
+> Collection of C++ excercises
