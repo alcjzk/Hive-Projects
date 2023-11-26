@@ -10,3 +10,27 @@
 [submodule "minitalk"]
 	path = minitalk
 	url = https://github.com/alcjzk/minitalk
+[submodule "cub3d"]
+	path = cub3d
+	url = https://github.com/alcjzk/cub3d
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/alcjzk/minishell
+[submodule "philosophers"]
+	path = philosophers
+	url = https://github.com/alcjzk/philosophers
+[submodule "CPP_Module_00"]
+	path = CPP_Module_00
+	url = https://github.com/alcjzk/CPP_Module_00
+[submodule "CPP_Module_01"]
+	path = CPP_Module_01
+	url = https://github.com/alcjzk/CPP_Module_01
+[submodule "CPP_Module_02"]
+	path = CPP_Module_02
+	url = https://github.com/alcjzk/CPP_Module_02
+[submodule "CPP_Module_03"]
+	path = CPP_Module_03
+	url = https://github.com/alcjzk/CPP_Module_03
+[submodule "CPP_Module_04"]
+	path = CPP_Module_04
+	url = https://github.com/alcjzk/CPP_Module_04
